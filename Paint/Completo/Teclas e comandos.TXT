@@ -1,0 +1,21 @@
+Esc -> Exit
+
+Tecla 0 -> Limpar tela
+
+Tecla 1 -> Desenhar linhas
+
+Tecla 2 -> Desenhar quadriláteros
+
+Tecla 3 -> Desenhar triângulos
+
+Tecla 4 -> Desenhar circunferências (digite o valor do raio no console após selecionar essa opção)
+
+Tecla 5 -> Desenhar polígonos (digite a quantidade de lados do polígono  - desenhe com clicks -  no 
+           console após selecionar essa opção)
+
+Tecla 6 -> Preenchimento de figura pelo método do scan (digite a quantidade de lados do polígono que deseja 
+           preencher - desenhe com clicks - no console após selecionar essa opção)
+
+Tecla 7 -> Preenchimento de figura com Floodfill
+
+Setas direcionais -> Translada o que está desenhado na tela
