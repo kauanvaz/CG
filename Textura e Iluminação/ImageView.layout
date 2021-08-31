@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="ImageView.cpp" Top="Yes" Tabpos="1" TopLine="80">
+			<Cursor Line="107" Column="18"/>
+			<Selection Line="107" Column="17"/>
+		</File>
+		<File Name="textureRGB.h" Top="No" Tabpos="2" TopLine="1">
+			<Cursor Line="6" Column="11"/>
+		</File>
+	</Files>
+</Layout>

@@ -1,0 +1,582 @@
+# depslib dependency file v1.0
+1258752502 source:d:\workspace\md2load\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"Md2Model.h"
+
+1306800224 c:\dev-cpp\include\gl\glew.h
+	<stddef.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1308074856 c:\dev-cpp\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1140893420 d:\workspace\md2load\md2player.h
+	<vector>
+	<string>
+	"Md2Model.h"
+
+1258746996 d:\workspace\md2load\md2model.h
+	<vector>
+	<string>
+	<map>
+	"Texture.h"
+
+1184359476 d:\workspace\md2load\texture.h
+	<windows.h>
+	<GL/gl.h>
+	<memory>
+	<stdexcept>
+	<string>
+	<vector>
+	<map>
+	"Image.h"
+
+1184359476 d:\workspace\md2load\image.h
+	<windows.h>
+	<GL/gl.h>
+	<stdexcept>
+	<iostream>
+	<fstream>
+	<string>
+
+1140893472 d:\workspace\md2load\texturemanager.h
+	"DataManager.h"
+	"Texture.h"
+
+1140893456 d:\workspace\md2load\datamanager.h
+	<stdexcept>
+	<string>
+	<map>
+	"DataManager.inl"
+
+1140893464 d:\workspace\md2load\datamanager.inl
+	"DataManager.h"
+
+1140893448 source:d:\workspace\md2load\md2model.cpp
+	<windows.h>
+	<GL/gl.h>
+	<iostream>
+	<fstream>
+	"Md2Model.h"
+	"TextureManager.h"
+	"Anorms.h"
+
+1131743746 d:\workspace\md2load\anorms.h
+
+1140893430 source:d:\workspace\md2load\md2player.cpp
+	<windows.h>
+	<GL/gl.h>
+	<iostream>
+	<fstream>
+	<dirent.h>
+	<sys/types.h>
+	"Md2Player.h"
+	"Texture.h"
+
+1184359372 source:d:\workspace\md2load\texture.cpp
+	<windows.h>
+	<GL/glew.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<iostream>
+	<stdexcept>
+	"Texture.h"
+	"Image.h"
+
+1178566672 source:d:\workspace\md2load\image.cpp
+	<GL/glew.h>
+	"Image.h"
+
+1140893448 source:d:\ufpi\disciplinas\computação gráfica\minicurso\md2load\md2model.cpp
+	<windows.h>
+	<GL/gl.h>
+	<iostream>
+	<fstream>
+	"Md2Model.h"
+	"TextureManager.h"
+	"Anorms.h"
+
+1258746996 d:\ufpi\disciplinas\computação gráfica\minicurso\md2load\md2model.h
+	<vector>
+	<string>
+	<map>
+	"Texture.h"
+
+1184359476 d:\ufpi\disciplinas\computação gráfica\minicurso\md2load\texture.h
+	<windows.h>
+	<GL/gl.h>
+	<memory>
+	<stdexcept>
+	<string>
+	<vector>
+	<map>
+	"Image.h"
+
+1184359476 d:\ufpi\disciplinas\computação gráfica\minicurso\md2load\image.h
+	<windows.h>
+	<GL/gl.h>
+	<stdexcept>
+	<iostream>
+	<fstream>
+	<string>
+
+1140893472 d:\ufpi\disciplinas\computação gráfica\minicurso\md2load\texturemanager.h
+	"DataManager.h"
+	"Texture.h"
+
+1140893456 d:\ufpi\disciplinas\computação gráfica\minicurso\md2load\datamanager.h
+	<stdexcept>
+	<string>
+	<map>
+	"DataManager.inl"
+
+1140893464 d:\ufpi\disciplinas\computação gráfica\minicurso\md2load\datamanager.inl
+	"DataManager.h"
+
+1131743746 d:\ufpi\disciplinas\computação gráfica\minicurso\md2load\anorms.h
+
+1184359372 source:d:\ufpi\disciplinas\computação gráfica\minicurso\md2load\texture.cpp
+	<windows.h>
+	<GL/glew.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<iostream>
+	<stdexcept>
+	"Texture.h"
+	"Image.h"
+
+1178566672 source:d:\ufpi\disciplinas\computação gráfica\minicurso\md2load\image.cpp
+	<GL/glew.h>
+	"Image.h"
+
+1140893448 source:d:\ufpi\disciplinas\computação gráfica\cg.a16\md2load\md2model.cpp
+	<windows.h>
+	<GL/gl.h>
+	<iostream>
+	<fstream>
+	"Md2Model.h"
+	"TextureManager.h"
+	"Anorms.h"
+
+1258746996 d:\ufpi\disciplinas\computação gráfica\cg.a16\md2load\md2model.h
+	<vector>
+	<string>
+	<map>
+	"Texture.h"
+
+1184359476 d:\ufpi\disciplinas\computação gráfica\cg.a16\md2load\texture.h
+	<windows.h>
+	<GL/gl.h>
+	<memory>
+	<stdexcept>
+	<string>
+	<vector>
+	<map>
+	"Image.h"
+
+1184359476 d:\ufpi\disciplinas\computação gráfica\cg.a16\md2load\image.h
+	<windows.h>
+	<GL/gl.h>
+	<stdexcept>
+	<iostream>
+	<fstream>
+	<string>
+
+1140893472 d:\ufpi\disciplinas\computação gráfica\cg.a16\md2load\texturemanager.h
+	"DataManager.h"
+	"Texture.h"
+
+1140893456 d:\ufpi\disciplinas\computação gráfica\cg.a16\md2load\datamanager.h
+	<stdexcept>
+	<string>
+	<map>
+	"DataManager.inl"
+
+1140893464 d:\ufpi\disciplinas\computação gráfica\cg.a16\md2load\datamanager.inl
+	"DataManager.h"
+
+1131743746 d:\ufpi\disciplinas\computação gráfica\cg.a16\md2load\anorms.h
+
+1184359372 source:d:\ufpi\disciplinas\computação gráfica\cg.a16\md2load\texture.cpp
+	<windows.h>
+	<GL/glew.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<iostream>
+	<stdexcept>
+	"Texture.h"
+	"Image.h"
+
+1306797302 source:d:\ufpi\disciplinas\computação gráfica\cg.a16\md2load\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"Md2Model.h"
+
+1178566672 source:d:\ufpi\disciplinas\computação gráfica\cg.a16\md2load\image.cpp
+	<GL/glew.h>
+	"Image.h"
+
+1107038120 c:\dev-cpp\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1107038120 c:\dev-cpp\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1107038120 c:\dev-cpp\include\winuser.h
+
+1107038120 c:\dev-cpp\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1107038120 c:\dev-cpp\include\winerror.h
+
+1107038124 c:\dev-cpp\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1107038124 c:\dev-cpp\include\_mingw.h
+
+1107038120 c:\dev-cpp\include\basetsd.h
+
+1107038120 c:\dev-cpp\include\pshpack4.h
+
+1107038120 c:\dev-cpp\include\poppack.h
+
+1107038120 c:\dev-cpp\include\winver.h
+
+1107038120 c:\dev-cpp\include\dde.h
+
+1107038120 c:\dev-cpp\include\dlgs.h
+
+1107038120 c:\dev-cpp\include\commctrl.h
+	<prsht.h>
+
+1107038120 c:\dev-cpp\include\prsht.h
+
+1107038120 c:\dev-cpp\include\windef.h
+	<winnt.h>
+
+1107038120 c:\dev-cpp\include\wincon.h
+
+1107038120 c:\dev-cpp\include\winbase.h
+
+1107038120 c:\dev-cpp\include\wingdi.h
+
+1107038120 c:\dev-cpp\include\winnls.h
+
+1107038120 c:\dev-cpp\include\winnetwk.h
+
+1107038120 c:\dev-cpp\include\winreg.h
+
+1107038120 c:\dev-cpp\include\winsvc.h
+
+1107038120 c:\dev-cpp\include\cderr.h
+
+1107038120 c:\dev-cpp\include\ddeml.h
+
+1107038120 c:\dev-cpp\include\imm.h
+
+1107038120 c:\dev-cpp\include\lzexpand.h
+
+1107038120 c:\dev-cpp\include\mmsystem.h
+
+1107038120 c:\dev-cpp\include\nb30.h
+
+1107038120 c:\dev-cpp\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1107038120 c:\dev-cpp\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1107038120 c:\dev-cpp\include\basetyps.h
+
+1107038120 c:\dev-cpp\include\rpcdcep.h
+
+1107038120 c:\dev-cpp\include\rpcnsi.h
+
+1107038120 c:\dev-cpp\include\rpcnterr.h
+
+1107038124 c:\dev-cpp\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1107038120 c:\dev-cpp\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1107038120 c:\dev-cpp\include\pshpack2.h
+
+1107038120 c:\dev-cpp\include\winperf.h
+
+1107038120 c:\dev-cpp\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1107038120 c:\dev-cpp\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1107038120 c:\dev-cpp\include\objfwd.h
+	<basetyps.h>
+
+1107038120 c:\dev-cpp\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1107038120 c:\dev-cpp\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1107038120 c:\dev-cpp\include\rpcnsip.h
+
+1107038120 c:\dev-cpp\include\winspool.h
+
+1107038120 c:\dev-cpp\include\winsock2.h
+	<windows.h>
+
+1107038120 c:\dev-cpp\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1107038120 c:\dev-cpp\include\mswsock.h
+
+1107038120 c:\dev-cpp\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1107038120 c:\dev-cpp\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1107038124 c:\dev-cpp\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1107038120 c:\dev-cpp\include\objidl.h
+	<objfwd.h>
+
+1107038120 c:\dev-cpp\include\cguid.h
+
+1107038120 c:\dev-cpp\include\olectlid.h
+
+1107038120 c:\dev-cpp\include\oleauto.h
+	<oaidl.h>
+
+1107038120 c:\dev-cpp\include\oaidl.h
+
+1107038120 c:\dev-cpp\include\oleidl.h
+	<objfwd.h>
+
+1107038120 c:\dev-cpp\include\gl\gl.h
+
+1107038120 c:\dev-cpp\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1107038124 c:\dev-cpp\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1107038124 c:\dev-cpp\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1140893448 source:d:\ufpi\disciplinas\computação grafica\cg.a16\md2load\md2model.cpp
+	<windows.h>
+	<GL/gl.h>
+	<iostream>
+	<fstream>
+	"Md2Model.h"
+	"TextureManager.h"
+	"Anorms.h"
+
+1258746996 d:\ufpi\disciplinas\computação grafica\cg.a16\md2load\md2model.h
+	<vector>
+	<string>
+	<map>
+	"Texture.h"
+
+1184359476 d:\ufpi\disciplinas\computação grafica\cg.a16\md2load\texture.h
+	<windows.h>
+	<GL/gl.h>
+	<memory>
+	<stdexcept>
+	<string>
+	<vector>
+	<map>
+	"Image.h"
+
+1184359476 d:\ufpi\disciplinas\computação grafica\cg.a16\md2load\image.h
+	<windows.h>
+	<GL/gl.h>
+	<stdexcept>
+	<iostream>
+	<fstream>
+	<string>
+
+1140893472 d:\ufpi\disciplinas\computação grafica\cg.a16\md2load\texturemanager.h
+	"DataManager.h"
+	"Texture.h"
+
+1140893456 d:\ufpi\disciplinas\computação grafica\cg.a16\md2load\datamanager.h
+	<stdexcept>
+	<string>
+	<map>
+	"DataManager.inl"
+
+1140893464 d:\ufpi\disciplinas\computação grafica\cg.a16\md2load\datamanager.inl
+	"DataManager.h"
+
+1131743746 d:\ufpi\disciplinas\computação grafica\cg.a16\md2load\anorms.h
+
+1184359372 source:d:\ufpi\disciplinas\computação grafica\cg.a16\md2load\texture.cpp
+	<windows.h>
+	<GL/glew.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<iostream>
+	<stdexcept>
+	"Texture.h"
+	"Image.h"
+
+1306797302 source:d:\ufpi\disciplinas\computação grafica\cg.a16\md2load\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"Md2Model.h"
+
+1178566672 source:d:\ufpi\disciplinas\computação grafica\cg.a16\md2load\image.cpp
+	<GL/glew.h>
+	"Image.h"
+
+1140893448 source:d:\ufpi\disciplinas\computacao grafica\cg.a16\md2load\md2model.cpp
+	<windows.h>
+	<GL/gl.h>
+	<iostream>
+	<fstream>
+	"Md2Model.h"
+	"TextureManager.h"
+	"Anorms.h"
+
+1258746996 d:\ufpi\disciplinas\computacao grafica\cg.a16\md2load\md2model.h
+	<vector>
+	<string>
+	<map>
+	"Texture.h"
+
+1184359476 d:\ufpi\disciplinas\computacao grafica\cg.a16\md2load\texture.h
+	<windows.h>
+	<GL/gl.h>
+	<memory>
+	<stdexcept>
+	<string>
+	<vector>
+	<map>
+	"Image.h"
+
+1184359476 d:\ufpi\disciplinas\computacao grafica\cg.a16\md2load\image.h
+	<windows.h>
+	<GL/gl.h>
+	<stdexcept>
+	<iostream>
+	<fstream>
+	<string>
+
+1140893472 d:\ufpi\disciplinas\computacao grafica\cg.a16\md2load\texturemanager.h
+	"DataManager.h"
+	"Texture.h"
+
+1140893456 d:\ufpi\disciplinas\computacao grafica\cg.a16\md2load\datamanager.h
+	<stdexcept>
+	<string>
+	<map>
+	"DataManager.inl"
+
+1140893464 d:\ufpi\disciplinas\computacao grafica\cg.a16\md2load\datamanager.inl
+	"DataManager.h"
+
+1131743746 d:\ufpi\disciplinas\computacao grafica\cg.a16\md2load\anorms.h
+
+1184359372 source:d:\ufpi\disciplinas\computacao grafica\cg.a16\md2load\texture.cpp
+	<windows.h>
+	<GL/glew.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<iostream>
+	<stdexcept>
+	"Texture.h"
+	"Image.h"
+
+1319222076 source:d:\ufpi\disciplinas\computacao grafica\cg.a16\md2load\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"Md2Model.h"
+
+1178566672 source:d:\ufpi\disciplinas\computacao grafica\cg.a16\md2load\image.cpp
+	<GL/glew.h>
+	"Image.h"
+
+1107038124 c:\dev-cpp\include\stddef.h
+
+1107038124 c:\dev-cpp\include\stdarg.h
+
